@@ -1,5 +1,4 @@
 
 .vscode/settings.json
-./compilador.exe
-./lex.yy.c
 compilador.exe
+lex.yy.c
